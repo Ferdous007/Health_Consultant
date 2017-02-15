@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.rima.health_consultant.Serial_Activity"
+    android:background="@drawable/picnew"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/hello_world8"
+        android:id="@+id/textView8"
+        android:textSize="30dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="100dp"
+        android:textColor="@color/abc_secondary_text_material_light"
+
+        />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="Log in"
+        android:id="@+id/button_login"
+        android:layout_below="@+id/textView8"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:textColor="@color/abc_secondary_text_material_dark"
+        android:background="@drawable/button3"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/hello_world9"
+        android:id="@+id/textView7"
+        android:layout_below="@+id/button_login"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:textColor="@color/abc_secondary_text_material_light"
+        android:textSize="30dp"
+        android:layout_marginLeft="45dp" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="New account"
+        android:id="@+id/button_account"
+        android:layout_below="@+id/textView7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp"
+
+        android:textStyle="bold"
+
+        android:textColor="@color/abc_secondary_text_material_dark"
+        android:background="@drawable/button3"
+        />
+
+</RelativeLayout>

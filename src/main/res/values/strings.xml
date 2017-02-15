@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="title_activity_activity_medicine">activity_medicine</string>
+    <string name="title_activity_activity_medic">activity_medic</string>
+    <string name="title_activity_medic_activity">medic_activity</string>
+    <string name="title_activity_medicine">Medicine</string>
+    <string name="title_activity_medicine__info">Medicine_Info</string>
+    <string name="title_activity_info">Info</string>
+    <string name="app_name">Health Consultant</string>
+    <string name="hello_world">Health</string>
+    <string name="hello_world2">is not valued until sickness come!!</string>
+    <string name="hello_world3">---Thomas Fuller</string>
+    <string name="title_activity_select_activity">Registration and Login Place</string>
+    <string name="hello_world4">Please Select</string>
+    <string name="hello_world5">(1)For Doctors Suggestion------</string>
+    <string name="hello_world6">(2)Request For Serial------</string>
+    <string name="hello_world7">(3)For Emergency Case------</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_serial_">Registration and Login Place</string>
+    <string name="hello_world8">Please Log in first</string>
+    <string name="hello_world9">Create a new account</string>
+    <string name="title_activity_login_">Login</string>
+    <string name="hello_world10">User Name :</string>
+    <string name="hello_world11">Log In</string>
+    <string name="hello_world12">Password :</string>
+    <string name="hello_world13">Create a new account</string>
+    <string name="hello_world14">First Name :</string>
+    <string name="hello_world15">Last Name :</string>
+    <string name="hello_world16">User Name :</string>
+    <string name="hello_world17">Password :</string>
+    <string name="title_activity_create__account_">Account Creation</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_specialist_">Specialists</string>
+    <string name="hello_world41">Please Select</string>
+    <string name="hello_world51">(1)For Eye specialist------</string>
+    <string name="title_activity_patient__account_">Patient Account Settings</string>
+    <string name="title_activity_patient_details_">Patient Details</string>
+    <string name="title_activity_doctot_details">Doctor Details</string>
+    <string name="Pname">Patient Name :</string>
+    <string name="Pemail">Email Id :</string>
+    <string name="doctorname">Doctor Name :</string>
+    <string name="hospitalname">Hospital Name :</string>
+    <string name="date">Date :</string>
+    <string name="specialist">Specialist :</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="last_page">A confirmation e-mail will be sent to you </string>
+    <string name="title_activity_symptom">Symptom</string>
+    <string name="title_main_activity">Main</string>
+
+</resources>
