@@ -1,1 +1,2 @@
 # Health_Consultant
+It is an android based project. In this application, one can request a serial by choosing doctors from the list provided. The user can get additional information about the time and serial number though his mail account. There is also provided some common symptoms of various diseases and medicine’s name from different company. Using mobile GPS, users can see the nearest hospitals locations.
